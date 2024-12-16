@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Buddy",
+        "type": "Dog",
+        "species": "Labrador",
+        "gender": "Male",
+        "age": 5,
+        "weight": 30.5,
+        "acquisition_date": "2022-06-15",
+        "acquisition_country": "USA",
+        "training_status": "Completed",
+        "reserved_status": false,
+        "in_service_country": "USA"
+    },
+    {
+        "name": "Max",
+        "type": "Dog",
+        "species": "German Shepherd",
+        "gender": "Male",
+        "age": 7,
+        "weight": 35.0,
+        "acquisition_date": "2021-03-10",
+        "acquisition_country": "Germany",
+        "training_status": "In Progress",
+        "reserved_status": true,
+        "in_service_country": "USA"
+    },
+    {
+        "name": "Bella",
+        "type": "Monkey",
+        "species": "Capuchin",
+        "gender": "Female",
+        "age": 3,
+        "weight": 4.2,
+        "acquisition_date": "2023-01-20",
+        "acquisition_country": "Brazil",
+        "training_status": "Completed",
+        "reserved_status": false,
+        "in_service_country": "USA",
+        "tail_length": 35.0,
+        "height": 40.0,
+        "body_length": 50.0
+    }
+]
